@@ -33,4 +33,10 @@ button2 {
     font-size: 16px;
     margin: 4px 2px;
     cursor: help;
+    border-radius: 5px;
+}
+
+.dark-mode {
+    background-color: #222;
+    color: #eee;
 }
